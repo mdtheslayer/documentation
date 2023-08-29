@@ -12,7 +12,7 @@ const config = {
   projectName: 'mdtheslayer.github.io',
   organizationName: 'mdtheslayer',
   trailingSlash: false,
-  deploymentBranch: 'deployment',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
